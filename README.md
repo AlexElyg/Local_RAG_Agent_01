@@ -24,7 +24,7 @@
 
 * Видео (English 31 минута) Reliable, fully local RAG agents with LLaMA3.2-3b https://www.youtube.com/watch?v=bq1Plo2RhYI
 
-Приглашаю в Телеграм общаться по это теме: https://t.me/AiExp01
+
 
 ---
 ## 1. Установить Ollama
