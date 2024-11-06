@@ -30,7 +30,7 @@
 ## 1. Установить Ollama
 https://ollama.com/download/windows
 
-см. подробнее в этой публикации: https://t.me/AiExp01/81
+
 
 ---
 
@@ -108,10 +108,9 @@ https://ollama.com/download/windows
 
 ![](st.png)
 
----
-Видео см. здесь: https://youtu.be/ui_NvvMTKAc?si=T7XdoHrSKWcMsQwx
 
-Обсуждение здесь: https://t.me/AiExp01/112
+
+
 
 
 
